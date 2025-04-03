@@ -22,7 +22,7 @@ Although I have not gone deep into it, the computer really has an interesting wo
   <img src="https://github-readme-stats.vercel.app/api?username=Kuroshg3&show_icons=true" />
 </picture>
 
-Ways to contact me:
+contact me:
 [Telegram](https://t.me/kur0shg3) |
 [Discord](https://discord.com/channels/@me/664846208744947723) |
 <kuroshg3@gmail.com>
